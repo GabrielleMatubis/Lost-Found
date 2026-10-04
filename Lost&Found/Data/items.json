@@ -1,0 +1,54 @@
+{
+    "ID-0003": {
+        "ITEM_NAME": "Plushie",
+        "LAST-SEEN-ON": "12-23-2025",
+        "LAST-SEEN-IN": "UE Field",
+        "STATUS": "FOUND"
+    },
+    "ID-0005": {
+        "ITEM_NAME": "Keychain",
+        "LAST-SEEN-ON": "12-20-2025",
+        "LAST-SEEN-IN": "Mapua Intramuros",
+        "STATUS": "CLAIMED",
+        "CLAIMER_DATA": {
+            "NAME": "Gabrielle",
+            "STUDENT_ID": "2021253234"
+        }
+    },
+    "ID-0007": {
+        "ITEM_NAME": "Shoes",
+        "LAST-SEEN-ON": "11-16-2025",
+        "LAST-SEEN-IN": "TYK 1st Floor",
+        "STATUS": "CLAIMED",
+        "CLAIMER_DATA": {
+            "NAME": "Gabrielle",
+            "STUDENT_ID": "2026170154"
+        }
+    },
+    "ID-0008": {
+        "ITEM_NAME": "Wallet",
+        "LAST-SEEN-ON": "12-02-2006",
+        "LAST-SEEN-IN": "LRC",
+        "STATUS": "FOUND"
+    },
+    "ID-0009": {
+        "ITEM_NAME": "LunchBag",
+        "LAST-SEEN-ON": "11-24-2025",
+        "LAST-SEEN-IN": "UE Field",
+        "STATUS": "CLAIMED",
+        "CLAIMER_DATA": {
+            "NAME": "Gabrielle",
+            "STUDENT_ID": "2026170154"
+        }
+    },
+    "ID-0010": {
+        "ITEM_NAME": "Umbrella",
+        "LAST-SEEN-ON": "N/A",
+        "LAST-SEEN-IN": "Cafeteria",
+        "STATUS": "CLAIMED",
+        "CLAIMER_DATA": {
+            "NAME": "Gabo",
+            "STUDENT_ID": "2026154324"
+        }
+    }
+}
